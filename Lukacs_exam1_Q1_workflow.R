@@ -259,3 +259,5 @@ cjs.result.H5 <- jags( cjs.data,
 )
 cjs.result.H5
 mcmcplot(cjs.result.H5)
+
+# I typed some shit here!
